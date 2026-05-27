@@ -123,14 +123,6 @@ http://127.0.0.1:8000
 
 ---
 
-## 📷 Tampilan Project
-
-Tambahkan screenshot project di sini untuk mempercantik README GitHub.
-
-```bash
-assets/screenshot.png
-```
-
 ---
 
 ## 👨‍💻 Developer
